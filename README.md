@@ -17,7 +17,7 @@
     </a>
 </p>
 
-### Languages/Technologies/OS's
+### Languages/Technologies
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jakemclaughlin6)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/jakemclaughlin6)
 [![ROS](https://img.shields.io/badge/ros-black?style=for-the-badge&logo=ros)](https://github.com/jakemclaughlin6)
