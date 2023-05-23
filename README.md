@@ -6,7 +6,7 @@
         I am also completing my Masters Degree in Robotics part time at the Unversity of Waterloo.<br>
         My research interests are in tightly coupled SLAM and its applications to 3D reconstruction. <br>
     </i><br>
-    <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/jakefmclaughlin/)">
+    <a href="[https://www.linkedin.com/in/jakefmclaughlin]">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
