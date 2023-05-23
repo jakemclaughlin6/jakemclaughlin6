@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/SRILab-blue?style=flat-square&logo=SRILab" alt="SRILab">
     </a>
     <a href="https://luxolis.ai/">
-        <img src="https://img.shields.io/badge/Luxolis-grey?style=flat-square&logo=Luxolis" alt="Luxolis">
+        <img src="https://img.shields.io/badge/Luxolis-blue?style=flat-square&logo=Luxolis" alt="Luxolis">
     </a>
 </p>
 
