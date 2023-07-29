@@ -2,8 +2,7 @@
     <b>Welcome to my page! 👋</b><br><br>
     <i>
         My name is Jake McLaughlin.<br>
-        I am a SLAM Research Engineer at Luxolis.<br>
-        I am also completing my Masters Degree in Robotics part time at the Unversity of Waterloo, however I am part of the SRI Lab at UCLA.<br>
+        I am completing my Masters Degree in Robotics part time at the Unversity of Waterloo, however I am part of the SRI Lab at UCLA.<br>
         My research interests are in tightly coupled SLAM and its applications to 3D reconstruction.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
@@ -11,9 +10,6 @@
     </a>
     <a href="https://sri-lab.seas.ucla.edu/">
         <img src="https://img.shields.io/badge/SRILab-blue?style=flat-square&logo=SRILab" alt="SRILab">
-    </a>
-    <a href="https://luxolis.ai/">
-        <img src="https://img.shields.io/badge/Luxolis-blue?style=flat-square&logo=Luxolis" alt="Luxolis">
     </a>
 </p>
 
