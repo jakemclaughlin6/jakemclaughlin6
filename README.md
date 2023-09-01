@@ -37,8 +37,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/jakemclaughlin6">
-    <img src="https://komarev.com/ghpvc/?username=jakemclaughlin6&color=blue&style=flat)" />
-  </a>
-</p>
