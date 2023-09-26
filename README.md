@@ -39,3 +39,16 @@
     <img src="https://komarev.com/ghpvc/?username=jakemclaughlin6&color=blue&style=flat)" />
   </a>
 </p>
+
+## Projects
+
+### Visual Inertial Odometry
+
+This video was taken of the Visual-Inertial-Odometry I implemented from the ground up using Locus's [fuse](https://github.com/locusrobotics/fuse) repository, along with an in lab library [libbeam](https://github.com/BEAMRobotics/libbeam), where many of my contributions lie.
+
+https://github.com/jakemclaughlin6/jakemclaughlin6/assets/25440002/4506750a-9276-4954-81b2-03ded9d20979
+
+
+
+
+
