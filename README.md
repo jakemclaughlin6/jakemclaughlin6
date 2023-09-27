@@ -44,7 +44,7 @@
 
 ### Visual Inertial Odometry
 
-This video was taken of the Visual-Inertial-Odometry I implemented from the ground up using Locus's [fuse](https://github.com/locusrobotics/fuse) repository, along with an in lab library [libbeam](https://github.com/BEAMRobotics/libbeam), where many of my contributions lie.
+This video was taken of the Visual-Inertial-Odometry I implemented from the ground up using Locus's [fuse](https://github.com/locusrobotics/fuse) repository, along with an in lab library [libbeam](https://github.com/BEAMRobotics/libbeam), where many of my contributions lie. The goal of this VIO implementation was to provide a platform for further research and enhancement (learning based feature tracking, MLPnP, semantic segmentation etc). It was also implemented with the coupling of LiDAR odometry in mind, along with coupled Visual-LiDAR place recognition for robust and accurate loop closures.
 
 https://github.com/jakemclaughlin6/jakemclaughlin6/assets/25440002/5c63e5da-b821-4174-8d1e-e45739183d65
 
