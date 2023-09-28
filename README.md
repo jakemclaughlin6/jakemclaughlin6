@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://github.com/jakemclaughlin6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakemclaughlin6&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakemclaughlin6&theme=github" />
   </a>
   <a href="https://github.com/jakemclaughlin6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemclaughlin6&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemclaughlin6&hide_border=true&card_width=338&theme=github-light" />
   </a>
   <a href="https://github.com/jakemclaughlin6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakemclaughlin6&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakemclaughlin6&theme=github" />
   </a>
 </p>
 
