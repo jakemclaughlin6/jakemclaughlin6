@@ -3,7 +3,7 @@
     <i>
         My name is Jake McLaughlin.<br>
         I am completing my Masters Degree in Robotics part time at the Unversity of Waterloo, however I am part of the SRI Lab at UCLA.<br>
-        My research interests are in tightly coupled SLAM and its applications to 3D reconstruction.<br>
+        My research interests are in tightly coupled SLAM and its applications to infrastructure inspections.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
