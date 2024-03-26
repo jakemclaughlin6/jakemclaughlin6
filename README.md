@@ -2,14 +2,13 @@
     <b>Welcome to my page! 👋</b><br><br>
     <i>
         My name is Jake McLaughlin.<br>
-        I am completing my Masters Degree in Robotics part time at the Unversity of Waterloo, however I am part of the SRI Lab at UCLA.<br>
-        My research interests are in tightly coupled SLAM and its applications to infrastructure inspections.<br>
+        I am an Autonomy Developer for OTTO Motors, specializing in SLAM and sensor calibration.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://sri-lab.seas.ucla.edu/">
-        <img src="https://img.shields.io/badge/SRILab-blue?style=flat-square&logo=SRILab" alt="SRILab">
+    <a href="https://ottomotors.com/">
+        <img src="https://img.shields.io/badge/OTTO-purple?style=flat-square&logo=OTTO" alt="OTTO">
     </a>
 </p>
 
