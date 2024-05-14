@@ -1,9 +1,4 @@
 <p align="center">
-    <b>Welcome to my page! 👋</b><br><br>
-    <i>
-        My name is Jake McLaughlin.<br>
-        I am an Autonomy Developer for OTTO Motors, specializing in SLAM and sensor calibration.<br>
-    </i><br>
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
