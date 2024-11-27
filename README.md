@@ -1,3 +1,11 @@
+### Hi there 👋
+I'm Jake and I am an Autonomy Developer with OTTO Motors!
+
+I did my Masters at the University of Waterloo focusing on tightly coupled Visual-Lidar SLAM for automated infrastructure inspections.
+
+I'm currently working at OTTO Motors as a part of the Perception team working on robust SLAM in warehouse environments, my specialty is within calibration of the various sensors on our AMR platforms.
+
+##
 <p align="center">
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -7,15 +15,6 @@
     </a>
 </p>
 
-### Languages/Technologies
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/jakemclaughlin6)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/jakemclaughlin6)
-[![ROS](https://img.shields.io/badge/ros-black?style=for-the-badge&logo=ros)](https://github.com/jakemclaughlin6)
-[![ROS](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv)](https://github.com/jakemclaughlin6)
-[![ROS](https://img.shields.io/badge/pcl-black?style=for-the-badge&logo=pcl)](https://github.com/jakemclaughlin6)
-[![ROS](https://img.shields.io/badge/eigen-black?style=for-the-badge&logo=eigen)](https://github.com/jakemclaughlin6)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/jakemclaughlin6)
-
 <p align="center">
   <a href="https://github.com/jakemclaughlin6">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakemclaughlin6&theme=github" />
@@ -23,11 +22,15 @@
   <a href="https://github.com/jakemclaughlin6">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemclaughlin6&hide_border=true&card_width=338&theme=github-light" />
   </a>
-  <a href="https://github.com/jakemclaughlin6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakemclaughlin6&theme=github" />
-  </a>
 </p>
-
+<p align="center">
+    <a href="https://github.com/Fixit-Davide/github-readme-stats">
+      <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakemclaughlin6&show_icons=true&theme=github-light&rank_icon=github&count_private=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jakemclaughlin6&layout=compact&langs_count=8&card_width=310&theme=github-light" />
+    </a>
+</p>
 
 ## Projects
 
