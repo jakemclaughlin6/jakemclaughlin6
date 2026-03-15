@@ -1,34 +1,25 @@
-### Hi there 👋
-I'm Jake and I am an Autonomy Developer with OTTO Motors!
+### Hello
 
-I did my Masters at the University of Waterloo focusing on tightly coupled Visual-Lidar SLAM for automated infrastructure inspections.
-
-I'm currently working at OTTO Motors as a part of the Perception team working on robust SLAM in warehouse environments, my specialty is within calibration of the various sensors on our AMR platforms.
+My name is Jake. I am a software engineer. I am interested in state estimation, computer vision, deep learning and all the rest of it.
 
 ##
 <p align="center">
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://ottomotors.com/">
-        <img src="https://img.shields.io/badge/OTTO-purple?style=flat-square&logo=OTTO" alt="OTTO">
-    </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jakemclaughlin6">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakemclaughlin6&theme=github" />
-  </a>
-  <a href="https://github.com/jakemclaughlin6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemclaughlin6&hide_border=true&card_width=338&theme=github-light" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakemclaughlin6&theme=github_dark" />
   </a>
 </p>
 <p align="center">
     <a href="https://github.com/Fixit-Davide/github-readme-stats">
-      <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakemclaughlin6&show_icons=true&theme=github-light&rank_icon=github&count_private=true" />
+      <img height=150 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakemclaughlin6&theme=github_dark" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jakemclaughlin6&layout=compact&langs_count=8&card_width=310&theme=github-light" />
+      <img height=150 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakemclaughlin6&theme=github_dark" />
     </a>
 </p>
 
