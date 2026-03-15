@@ -1,13 +1,14 @@
 ### Hello
 
 My name is Jake. I am a software engineer. I am interested in state estimation, computer vision, deep learning and all the rest of it.
-
-##
 <p align="center">
     <a href="https://www.linkedin.com/in/jakefmclaughlin">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
+
+##
+
 
 <p align="center">
   <a href="https://github.com/jakemclaughlin6">
